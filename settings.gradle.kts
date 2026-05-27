@@ -40,5 +40,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "DesignSystemDemo"
 include(":app")
-include(":design-tokens-local")
- 
